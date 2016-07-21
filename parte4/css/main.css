@@ -1,0 +1,33 @@
+*{
+	box-sizing: border-box;
+	margin: 10px;
+	padding: 15px;
+}
+.yellow{
+	width: 100px;
+	height: 30px;
+	padding: 6px;
+	background-color: yellow;
+	display: inline-block;
+}
+.red{
+	width: 30px;
+	height: 30px;
+	padding: 6px;
+	background-color: red;
+	display: inline-block;
+	margin-left: 1px;
+	margin-right: 1px
+}
+.yellow1{
+	width: 170px;
+	height: 30px;
+	padding: 6px;
+	background-color: yellow;
+	display: inline-block;
+}
+p{
+	margin: 0px;
+	text-align: center;
+	padding: 0px;
+}
